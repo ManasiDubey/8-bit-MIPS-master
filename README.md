@@ -1,1 +1,3 @@
 8-BIT RISC BASED SINGLE CORE PIPELINED MICROPROCESSOR WHICH CAN BE USED TO PERFORM VARIOUS ARITHMATIC AND LOGICAL OPERATIONS.
+Link to block diagram - https://go.gliffy.com/go/share/image/snnodv6gfuwj9gk4egpr.png
+
